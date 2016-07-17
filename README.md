@@ -6,6 +6,9 @@ Function definitions include methods for plotting 96 well heatmaps, 96 well as w
 
 #Dependencies
 FlowCytometryTools
+
 numpy
+
 pandas
+
 matplotlib
